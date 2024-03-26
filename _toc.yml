@@ -1,0 +1,33 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption:  Objectifs
+    chapters:  
+    - file: Objectifs/1-Pauvrete/1-Pauvrete
+      sections:
+      - file: Objectifs/1-Pauvrete/Problematique
+      - file: Objectifs/1-Pauvrete/Reflexion
+      - file: Objectifs/1-Pauvrete/Solutions 
+    - file: Objectifs/2-Faim/2-Faim
+    - file: Objectifs/3-Bien-Etre/3-Bien-Etre
+    - file: Objectifs/4-Education/4-Education
+    - file: Objectifs/5-Egalite/5-Egalite
+    - file: Objectifs/6-Eau/6-Eau
+    - file: Objectifs/7-Energie/7-Energie
+    - file: Objectifs/8-Travail/8-Travail
+    - file: Objectifs/9-Industrie/9-Industrie
+    - file: Objectifs/10-Inegalites/10-Inegalites
+    - file: Objectifs/11-Communauté/11-Communauté
+    - file: Objectifs/12-Consommation/12-Consommation
+    - file: Objectifs/13-Climat/13-Climat
+    - file: Objectifs/14-Vie-Aquatique/14-Vie-Aquatique
+    - file: Objectifs/15-Vie-Terrestre/15-Vie-Terrestre
+    - file: Objectifs/16-Paix/16-Paix
+    - file: Objectifs/17-Partenariats/17-Partenariats
+
+    
+
+
