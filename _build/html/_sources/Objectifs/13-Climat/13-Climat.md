@@ -37,7 +37,7 @@
 
 :::{div} full-width
 
-<iframe width="100%" height="100%" src="https://climate.nasa.gov/earth-now/#/vital-signs/carbon-monoxide/airs-infrared-18000ft-3day">
+<iframe width="100%" height="800px" src="https://climate.nasa.gov/earth-now/#/vital-signs/carbon-monoxide/airs-infrared-18000ft-3day">
 </iframe>
 
 
