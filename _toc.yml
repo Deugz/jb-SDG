@@ -4,7 +4,10 @@
 format: jb-book
 root: intro
 parts:
-  - caption:  Objectifs
+  - caption:  Introduction
+    chapters:  
+    - file: Introduction/Site_Main
+  - caption:  Objectifs Développement Durable
     chapters:  
     - file: Objectifs/1-Pauvrete/1-Pauvrete
       sections:
@@ -14,6 +17,10 @@ parts:
     - file: Objectifs/2-Faim/2-Faim
     - file: Objectifs/3-Bien-Etre/3-Bien-Etre
     - file: Objectifs/4-Education/4-Education
+      sections:
+      - file: Objectifs/4-Education/Problematique
+      - file: Objectifs/4-Education/Reflexion
+      - file: Objectifs/4-Education/Solutions 
     - file: Objectifs/5-Egalite/5-Egalite
     - file: Objectifs/6-Eau/6-Eau
     - file: Objectifs/7-Energie/7-Energie
@@ -23,11 +30,25 @@ parts:
     - file: Objectifs/11-Communauté/11-Communauté
     - file: Objectifs/12-Consommation/12-Consommation
     - file: Objectifs/13-Climat/13-Climat
+      sections:
+      - file: Objectifs/13-Climat/Problematique
+      - file: Objectifs/13-Climat/Reflexion
+      - file: Objectifs/13-Climat/Solutions
     - file: Objectifs/14-Vie-Aquatique/14-Vie-Aquatique
+      sections:
+      - file: Objectifs/14-Vie-Aquatique/Problematique
+      - file: Objectifs/14-Vie-Aquatique/Reflexion
+      - file: Objectifs/14-Vie-Aquatique/Solutions
     - file: Objectifs/15-Vie-Terrestre/15-Vie-Terrestre
+      sections:
+      - file: Objectifs/15-Vie-Terrestre/Problematique
+      - file: Objectifs/15-Vie-Terrestre/Reflexion
+      - file: Objectifs/15-Vie-Terrestre/Solutions
     - file: Objectifs/16-Paix/16-Paix
     - file: Objectifs/17-Partenariats/17-Partenariats
-
+  - caption: Plus loin
+    chapters:  
+    - file: Rapports/Rapports_Main
     
 
 
