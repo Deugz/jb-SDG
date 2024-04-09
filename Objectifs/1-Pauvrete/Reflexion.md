@@ -1,9 +1,13 @@
 # Réfléxion
 
-## Definition de la pauvreté
+## Interview
 
-Extraire ici les différente définition pour chacun des pays et effectuer une comparaison
+### Le Bon Jim 
 
-## basic services
 
-mentionned in 1.4.1
+```{note}
+
+Eh beh la mon petit pote, je crois qu'on peut s'amuser!!
+
+
+```

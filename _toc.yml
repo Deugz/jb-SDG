@@ -15,20 +15,60 @@ parts:
       - file: Objectifs/1-Pauvrete/Reflexion
       - file: Objectifs/1-Pauvrete/Solutions 
     - file: Objectifs/2-Faim/2-Faim
+      sections:
+      - file: Objectifs/2-Faim/Problematique
+      - file: Objectifs/2-Faim/Reflexion
+      - file: Objectifs/2-Faim/Solutions 
     - file: Objectifs/3-Bien-Etre/3-Bien-Etre
+      sections:
+      - file: Objectifs/3-Bien-Etre/Problematique
+      - file: Objectifs/3-Bien-Etre/Reflexion
+      - file: Objectifs/3-Bien-Etre/Solutions
     - file: Objectifs/4-Education/4-Education
       sections:
       - file: Objectifs/4-Education/Problematique
       - file: Objectifs/4-Education/Reflexion
       - file: Objectifs/4-Education/Solutions 
     - file: Objectifs/5-Egalite/5-Egalite
+      sections:
+      - file: Objectifs/5-Egalite/Problematique
+      - file: Objectifs/5-Egalite/Reflexion
+      - file: Objectifs/5-Egalite/Solutions 
     - file: Objectifs/6-Eau/6-Eau
+      sections:
+      - file: Objectifs/6-Eau/Problematique
+      - file: Objectifs/6-Eau/Reflexion
+      - file: Objectifs/6-Eau/Solutions
     - file: Objectifs/7-Energie/7-Energie
+      sections:
+      - file: Objectifs/7-Energie/Problematique
+      - file: Objectifs/7-Energie/Reflexion
+      - file: Objectifs/7-Energie/Solutions
     - file: Objectifs/8-Travail/8-Travail
+      sections:
+      - file: Objectifs/8-Travail/Problematique
+      - file: Objectifs/8-Travail/Reflexion
+      - file: Objectifs/8-Travail/Solutions
     - file: Objectifs/9-Industrie/9-Industrie
+      sections:
+      - file: Objectifs/9-Industrie/Problematique
+      - file: Objectifs/9-Industrie/Reflexion
+      - file: Objectifs/9-Industrie/Solutions
     - file: Objectifs/10-Inegalites/10-Inegalites
+      sections:
+      - file: Objectifs/10-Inegalites/Problematique
+      - file: Objectifs/10-Inegalites/Reflexion
+      - file: Objectifs/10-Inegalites/Solutions
     - file: Objectifs/11-Communauté/11-Communauté
+      sections:
+      - file: Objectifs/11-Communauté/Problematique
+      - file: Objectifs/11-Communauté/Reflexion
+      - file: Objectifs/11-Communauté/Solutions
     - file: Objectifs/12-Consommation/12-Consommation
+      sections:
+      - file: Objectifs/12-Consommation/Problematique
+      - file: Objectifs/12-Consommation/Reflexion
+      - file: Objectifs/12-Consommation/Solutions
     - file: Objectifs/13-Climat/13-Climat
       sections:
       - file: Objectifs/13-Climat/Problematique
@@ -45,7 +85,15 @@ parts:
       - file: Objectifs/15-Vie-Terrestre/Reflexion
       - file: Objectifs/15-Vie-Terrestre/Solutions
     - file: Objectifs/16-Paix/16-Paix
+      sections:
+      - file: Objectifs/16-Paix/Problematique
+      - file: Objectifs/16-Paix/Reflexion
+      - file: Objectifs/16-Paix/Solutions
     - file: Objectifs/17-Partenariats/17-Partenariats
+      sections:
+      - file: Objectifs/17-Partenariats/Problematique
+      - file: Objectifs/17-Partenariats/Reflexion
+      - file: Objectifs/17-Partenariats/Solutions
   - caption: Plus loin
     chapters:  
     - file: Rapports/Rapports_Main
