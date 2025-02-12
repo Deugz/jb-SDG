@@ -189,8 +189,12 @@
 
 ## Les Données
 
+### Utilsation des sols
+
+- [CORINE Land Cover (CLC](https://www.statistiques.developpement-durable.gouv.fr/corine-land-cover-0)
+
 ```{note}
 
-Le but ici est de récupérer les données qui peuvent nous permettre d'analyser les résultats relatifs aux objectifs
+Créer un example avec la carte situé dans Doc
 
 ```

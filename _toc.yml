@@ -26,9 +26,10 @@ parts:
       - file: Objectifs/3-Bien-Etre/Solutions
     - file: Objectifs/4-Education/4-Education
       sections:
-      - file: Objectifs/4-Education/Problematique
-      - file: Objectifs/4-Education/Reflexion
-      - file: Objectifs/4-Education/Solutions 
+      - file: Objectifs/4-Education/Opinions
+      - file: Objectifs/4-Education/Donnees
+      - file: Objectifs/4-Education/Analyse 
+      - file: Objectifs/4-Education/Veille
     - file: Objectifs/5-Egalite/5-Egalite
       sections:
       - file: Objectifs/5-Egalite/Problematique
